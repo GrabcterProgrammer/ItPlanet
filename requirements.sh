@@ -24,7 +24,8 @@ echo -n -e "\e[1mEnter num core: \e[0m"
 read core
 
 #Установка пакетов для python3
-pip3 install request feedparser Pillow beautifulsoup4 lxml SpeechRecognition gTTS
+sudo apt-get install python3-lxml
+pip3 install request feedparser Pillow beautifulsoup4 SpeechRecognition gTTS
 
 #Удаление барохла с Raspberry Pi
 sudo apt-get purge wolfram-engine
