@@ -25,6 +25,7 @@ read core
 
 #Установка пакетов для python3
 sudo apt-get install python3-lxml
+sudo apt-get install mplayer
 pip3 install request feedparser Pillow beautifulsoup4 SpeechRecognition gTTS
 
 #Удаление барохла с Raspberry Pi
