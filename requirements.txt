@@ -1,5 +1,6 @@
 pip3 install request feedparser Pillow beautifulsoup4 lxml SpeechRecognition gTTS 
 sudo apt-get install python3-pil python3-pil.imagetk
+sudo apt-get install flac
 
 sudo apt-get install mpg321 
 
